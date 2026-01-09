@@ -39,15 +39,6 @@ Sourced from IPL records ([matches.csv](https://www.kaggle.com/manasgarg/ipl), [
 
 4. Open http://127.0.0.1:5000 in your browser.
 
-## Project Structure:
-ML_PROJECT
-├── main.py              # Flask app
-├── models/              # Pickled models (ipl_winner_model.pkl, rf_model.pkl, etc.)
-├── templates/           # HTML (index.html, six_predictor.html)
-├── data/                # IPL CSVs (matches.csv, deliveries.csv)
-└── requirements.txt
-README.md
-
 ## Results Highlights
 - Random Forest outperformed baselines by 8% accuracy.
 - Handles unseen teams via one-hot encoding and default zeros.
