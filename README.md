@@ -41,11 +41,11 @@ Sourced from IPL records ([matches.csv](https://www.kaggle.com/manasgarg/ipl), [
 
 ## Project Structure:
 ML_PROJECT
-- ├── main.py              # Flask app
-- ├── models/              # Pickled models (ipl_winner_model.pkl, rf_model.pkl, etc.)
-- ├── templates/           # HTML (index.html, six_predictor.html)
-- ├── data/                # IPL CSVs (matches.csv, deliveries.csv)
-- └── requirements.txt
+├── main.py              # Flask app
+├── models/              # Pickled models (ipl_winner_model.pkl, rf_model.pkl, etc.)
+├── templates/           # HTML (index.html, six_predictor.html)
+├── data/                # IPL CSVs (matches.csv, deliveries.csv)
+└── requirements.txt
 README.md
 
 ## Results Highlights
