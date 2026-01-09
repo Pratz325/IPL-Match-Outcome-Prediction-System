@@ -45,8 +45,8 @@ ML_PROJECT
 ├── models/              # Pickled models (ipl_winner_model.pkl, rf_model.pkl, etc.)
 ├── templates/           # HTML (index.html, six_predictor.html)
 ├── data/                # IPL CSVs (matches.csv, deliveries.csv)
-├── requirements.txt
-└── README.md
+└── requirements.txt
+README.md
 
 ## Results Highlights
 - Random Forest outperformed baselines by 8% accuracy.
